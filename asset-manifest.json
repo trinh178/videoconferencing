@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/videoconferencing/static/css/main.5f361e03.chunk.css",
+    "main.js": "/videoconferencing/static/js/main.7b0d0abf.chunk.js",
+    "main.js.map": "/videoconferencing/static/js/main.7b0d0abf.chunk.js.map",
+    "runtime-main.js": "/videoconferencing/static/js/runtime-main.c10fd188.js",
+    "runtime-main.js.map": "/videoconferencing/static/js/runtime-main.c10fd188.js.map",
+    "static/js/2.d2e571b4.chunk.js": "/videoconferencing/static/js/2.d2e571b4.chunk.js",
+    "static/js/2.d2e571b4.chunk.js.map": "/videoconferencing/static/js/2.d2e571b4.chunk.js.map",
+    "index.html": "/videoconferencing/index.html",
+    "precache-manifest.c126aa1b16c1b2ee0af6aab24fcfd08b.js": "/videoconferencing/precache-manifest.c126aa1b16c1b2ee0af6aab24fcfd08b.js",
+    "service-worker.js": "/videoconferencing/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/videoconferencing/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d2e571b4.chunk.js.LICENSE.txt": "/videoconferencing/static/js/2.d2e571b4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/videoconferencing/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c10fd188.js",
+    "static/js/2.d2e571b4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7b0d0abf.chunk.js"
+  ]
+}
